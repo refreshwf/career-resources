@@ -79,6 +79,8 @@ Google Reader is a great RSS reader providing easy application support (checkout
 + [Head First Java](http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/ref=sr_1_1?s=books&ie=UTF8&qid=1338232638&sr=1-1)
 + [Head First Design Patterns](http://www.amazon.com/First-Design-Patterns-Elisabeth-Freeman/dp/0596007124/ref=sr_1_1?s=books&ie=UTF8&qid=1338232662&sr=1-1)
 + [Gang of Four Design Patterns Book](http://www.amazon.com/dp/0201633612/?tag=stackoverfl08-20)
++ [The Google Resume](http://www.amazon.com/The-Google-Resume-Prepare-Microsoft/dp/0470927623/ref=sr_1_1?ie=UTF8&qid=1338233487&sr=8-1)
++ [Cracking the Coding Interview](http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_1?s=books&ie=UTF8&qid=1338233502&sr=1-1)
 
 ### Resources for Moving
 + [Airbnb](http://www.airbnb.com/)
