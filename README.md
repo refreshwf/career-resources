@@ -2,7 +2,7 @@
 
 Online resources and tips to help you land a new exciting career.
 
-### Real Artist Ship - Steve Jobs
+### "Real Artist Ship" - Steve Jobs
 If you do one thing, ship a product / project.
 The experience you take from this is invaluable.
 
